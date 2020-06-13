@@ -5,3 +5,9 @@ go to windows(c:) > Program Files > Stellarium > landscapes >
 now Create a new folder with name of your choice (Kesriwada)
 
 download and paste the two files landscape.png and landscape.ini in the folder
+
+open stellarium, and go to Sky and Viewing Options (F4) > Landscape > Kesriwada (or the name you have given)
+
+check the box if you went to keep this as your default landscape
+
+click apply
