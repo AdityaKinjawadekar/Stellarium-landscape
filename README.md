@@ -1,3 +1,3 @@
 # Stellarium-landscape
-Stellarium Windows wallpapers made for Jyotirvidya Parisanstha
+Stellarium Windows Kesriwada landscape made for Jyotirvidya Parisanstha
 by Aditya Kinjawadekar 
