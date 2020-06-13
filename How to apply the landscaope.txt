@@ -1,0 +1,7 @@
+make sure you have the latest version of Stellarium 
+
+go to windows(c:) > Program Files > Stellarium > landscapes > 
+
+now Create a new folder with name of your choice (Kesriwada)
+
+download and paste the two files landscape.png and landscape.ini in the folder
