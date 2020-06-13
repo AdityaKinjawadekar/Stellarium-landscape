@@ -1,2 +1,3 @@
 # Stellarium-landscape
-Stellarium Windows wallpapers made for JVP - Jyotirvidya Parisanstha
+Stellarium Windows wallpapers made for Jyotirvidya Parisanstha
+by Aditya Kinjawadekar 
